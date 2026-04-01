@@ -250,10 +250,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋 Author
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **[Jayakumar]**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jaiGit012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jayakumar-j23)
 
 ---
 
